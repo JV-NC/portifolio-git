@@ -7,5 +7,3 @@ asd
 asd
 asd
 e entao ele disse ....
-
-teste
